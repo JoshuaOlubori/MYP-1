@@ -32,10 +32,17 @@ except Exception as e:
 
 # %%
 conn.execute("""
+CREATE OR REPLACE TABLE results AS 
 select * 
 from hospital_discharges as hd
 inner join
 ccs_diagnosis as cdc 
 on hd.ccs_diagnosis_code = cdc.ccs_diagnosis_code
-""").df()
+""")
+
+#%%
+# pandas transformation code here on full joined table
+# %%
+# writing to local drive
+conn.execute("COPY (FROM results) TO 'results.csv' (FORMAT 'csv')")
 # %%
