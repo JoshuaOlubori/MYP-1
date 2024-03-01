@@ -1,0 +1,152 @@
+facility_id,facility_name,operating_certificate_number,hospital_county,health_service_area
+39,Memorial Hosp of Wm F & Gertrude F Jones A/K/A Jones Memorial Hosp,228000,Allegany,Western NY
+66,Olean General Hospital,401001,Cattaraugus,Western NY
+98,Brooks Memorial Hospital,601000,Chautauqua,Western NY
+103,Woman's Christian Association,602001,Chautauqua,Western NY
+114,TLC Health Network Lake Shore Hospital,427000,Chautauqua,Western NY
+207,Buffalo General Hospital,1401014,Erie,Western NY
+210,Erie County Medical Center,1401005,Erie,Western NY
+213,Mercy Hospital of Buffalo,1401008,Erie,Western NY
+218,Sisters of Charity Hospital,1401013,Erie,Western NY
+267,Kenmore Mercy Hospital,1404000,Erie,Western NY
+292,Sisters of Charity Hospital - St Joseph Campus,1401013,Erie,Western NY
+339,United Memorial Medical Center North Street Campus,1801000,Genesee,Western NY
+565,Eastern Niagara Hospital - Lockport Division,3101000,Niagara,Western NY
+574,Niagara Falls Memorial Medical Center,3102000,Niagara,Western NY
+581,Degraff Memorial Hospital,1401014,Niagara,Western NY
+583,Mount St Marys Hospital and Health Center,3121001,Niagara,Western NY
+1153,Wyoming County Community Hospital,6027000,Wyoming,Western NY
+3067,Millard Fillmore Suburban Hospital,1401014,Erie,Western NY
+116,Arnot Ogden Medical Center,701000,Chemung,Finger Lakes
+393,Nicholas H Noyes Memorial Hospital,2527000,Livingston,Finger Lakes
+409,Highland Hospital,2701001,Monroe,Finger Lakes
+411,Rochester General Hospital,2701003,Monroe,Finger Lakes
+413,Strong Memorial Hospital,2701005,Monroe,Finger Lakes
+471,The Unity Hospital of Rochester,2754001,Monroe,Finger Lakes
+671,Geneva General Hospital,3402000,Ontario,Finger Lakes
+678,F F Thompson Hospital,3429000,Ontario,Finger Lakes
+866,Corning Hospital,5001000,Steuben,Finger Lakes
+1028,Newark-Wayne Community Hospital,5820000,Wayne,Finger Lakes
+42,United Health Services Hospitals Inc. - Binghamton General Hospital,303001,Broome,Southern Tier
+43,Our Lady of Lourdes Memorial Hospital Inc,301001,Broome,Southern Tier
+58,United Health Services Hospitals Inc. - Wilson Medical Center,303001,Broome,Southern Tier
+85,Auburn Memorial Hospital,501000,Cayuga,Central NY
+128,Chenango Memorial Hospital Inc,824000,Chenango,Southern Tier
+158,Cortland Regional Medical Center Inc,1101000,Cortland,Central NY
+367,Samaritan Medical Center,2201000,Jefferson,Central NY
+397,Oneida Healthcare Center,2601001,Madison,Central NY
+401,Community Memorial Hospital Inc,2625700,Madison,Central NY
+589,"Rome Memorial Hospital, Inc",3201002,Oneida,Central NY
+598,St Elizabeth Medical Center,3202002,Oneida,Central NY
+599,Faxton-St Lukes Healthcare St Lukes Division,3202003,Oneida,Central NY
+628,UPSTATE University Hospital at Community General,3301007,Onondaga,Central NY
+630,St Josephs Hospital Health Center,3301003,Onondaga,Central NY
+635,University Hospital SUNY Health Science Center,3301007,Onondaga,Central NY
+636,Crouse Hospital,3301008,Onondaga,Central NY
+727,Oswego Hospital,3702000,Oswego,Central NY
+798,Claxton-Hepburn Medical Center,4401000,St Lawrence,Central NY
+804,Massena Memorial Hospital,4402000,St Lawrence,Central NY
+977,Cayuga Medical Center at Ithaca,5401001,Tompkins,Central NY
+1,Albany Medical Center Hospital,101000,Albany,Capital/Adiron
+5,St Peters Hospital,101004,Albany,Capital/Adiron
+135,The University of Vermont Health Network - Champlain Valley Physicians,901001,Clinton,Capital/Adiron
+146,Columbia Memorial Hospital,1001000,Columbia,Capital/Adiron
+324,Adirondack Medical Center-Saranac Lake Site,1623001,Franklin,Capital/Adiron
+325,Alice Hyde Medical Center,1624000,Franklin,Capital/Adiron
+330,Nathan Littauer Hospital,1701000,Fulton,Capital/Adiron
+484,St. Mary's Healthcare,2801001,Montgomery,Capital/Adiron
+739,Aurelia Osborn Fox Memorial Hospital,3801000,Otsego,Capital/Adiron
+746,Mary Imogene Bassett Hospital,3824000,Otsego,Capital/Adiron
+755,Seton Health System - St Marys Campus,4102003,Rensselaer,Capital/Adiron
+756,Samaritan Hospital,4102002,Rensselaer,Capital/Adiron
+818,Saratoga Hospital,4501000,Saratoga,Capital/Adiron
+829,Ellis Hospital,4601001,Schenectady,Capital/Adiron
+1005,Glens Falls Hospital,5601000,Warren,Capital/Adiron
+180,Mid-Hudson Valley Division of Westchester Medical Center,5957001,Dutchess,Hudson Valley
+181,Vassar Brothers Medical Center,1302001,Dutchess,Hudson Valley
+192,Northern Dutchess Hospital,1327000,Dutchess,Hudson Valley
+694,St Luke's Cornwall Hospital/Newburgh,3522000,Orange,Hudson Valley
+699,Orange Regional Medical Center-Goshen Campus,3523000,Orange,Hudson Valley
+704,St Anthony Community Hospital,3529000,Orange,Hudson Valley
+708,Bon Secours Community Hospital,3535001,Orange,Hudson Valley
+752,Putnam Hospital Center,3950000,Putnam,Hudson Valley
+776,Nyack Hospital,4324000,Rockland,Hudson Valley
+779,Good Samaritan Hospital of Suffern,4329000,Rockland,Hudson Valley
+971,Catskill Regional Medical Center,5263000,Sullivan,Hudson Valley
+989,HealthAlliance Hospital Marys Avenue Campus,5501000,Ulster,Hudson Valley
+1039,NewYork-Presbyterian/Hudson Valley Hospital,5901000,Westchester,Hudson Valley
+1045,White Plains Hospital Center,5902001,Westchester,Hudson Valley
+1061,Montefiore Mount Vernon Hospital,5903001,Westchester,Hudson Valley
+1072,Montefiore New Rochelle Hospital,5904001,Westchester,Hudson Valley
+1097,SJRH - St Johns Division,5907001,Westchester,Hudson Valley
+1098,St Joseph's Medical Center,5907002,Westchester,Hudson Valley
+1117,Northern Westchester Hospital,5920000,Westchester,Hudson Valley
+1122,New York-Presbyterian/Lawrence Hospital,5922000,Westchester,Hudson Valley
+1124,SJRH - Dobbs Ferry Pavillion,5907001,Westchester,Hudson Valley
+1129,Phelps Memorial Hospital Assn,5932000,Westchester,Hudson Valley
+1139,Westchester Medical Center,5957001,Westchester,Hudson Valley
+1165,Jacobi Medical Center,7000002,Bronx,New York City
+1168,Montefiore Medical Center-Wakefield Hospital,7000006,Bronx,New York City
+1169,Montefiore Medical Center - Henry & Lucy Moses Div,7000006,Bronx,New York City
+1172,Lincoln Medical & Mental Health Center,7000008,Bronx,New York City
+1176,SBH Health System,7000014,Bronx,New York City
+1178,Bronx-Lebanon Hospital Center - Concourse Division,7000001,Bronx,New York City
+1286,Brookdale Hospital Medical Center,7001002,Kings,New York City
+1288,Brooklyn Hospital Center - Downtown Campus,7001003,Kings,New York City
+1294,Coney Island Hospital,7001009,Kings,New York City
+1301,Kings County Hospital Center,7001016,Kings,New York City
+1304,NYU Lutheran Medical Center,7002053,Kings,New York City
+1305,Maimonides Medical Center,7001020,Kings,New York City
+1306,NewYork-Presbyterian Brooklyn Methodist Hospital,7001021,Kings,New York City
+1309,Interfaith Medical Center,7001046,Kings,New York City
+1318,Wyckoff Heights Medical Center,7001035,Kings,New York City
+1320,University Hospital of Brooklyn,7001037,Kings,New York City
+1324,Mount Sinai Beth Israel Brooklyn,7002002,Kings,New York City
+1692,Woodhull Medical & Mental Health Center,7001045,Kings,New York City
+1437,New York-Presbyterian/Lower Manhattan Hospital,7002054,Manhattan,New York City
+1438,Bellevue Hospital Center,7002001,Manhattan,New York City
+1439,Mount Sinai Beth Israel,7002002,Manhattan,New York City
+1445,Harlem Hospital Center,7002009,Manhattan,New York City
+1446,NYU Hospital for Joint Diseases,7002053,Manhattan,New York City
+1447,Hospital for Special Surgery,7002012,Manhattan,New York City
+1450,Lenox Hill Hospital,7002017,Manhattan,New York City
+1453,Memorial Hospital for Cancer and Allied Diseases,7002020,Manhattan,New York City
+1454,Metropolitan Hospital Center,7002021,Manhattan,New York City
+1456,Mount Sinai Hospital,7002024,Manhattan,New York City
+1458,New York Presbyterian Hospital - New York Weill Cornell Center,7002054,Manhattan,New York City
+1463,NYU Hospitals Center,7002053,Manhattan,New York City
+1464,New York Presbyterian Hospital - Columbia Presbyterian Center,7002054,Manhattan,New York City
+1466,Mount Sinai Roosevelt,7002032,Manhattan,New York City
+1469,Mount Sinai St. Lukes,7002032,Manhattan,New York City
+1626,Elmhurst Hospital Center,7003000,Queens,New York City
+1628,Flushing Hospital Medical Center,7003001,Queens,New York City
+1629,Jamaica Hospital Medical Center,7003003,Queens,New York City
+1630,Long Island Jewish Medical Center,7003004,Queens,New York City
+1635,St Johns Episcopal Hospital So Shore,7001024,Queens,New York City
+1637,New York Hospital Medical Center of Queens,7003010,Queens,New York City
+1638,Long Island Jewish Forest Hills,7003004,Queens,New York City
+1639,Mount Sinai Hospital - Mount Sinai Hospital of Queens,7002024,Queens,New York City
+1738,Richmond University Medical Center,7004010,Richmond,New York City
+1740,Staten Island University Hosp-North,7004003,Richmond,New York City
+3376,Long Island Jewish Schneiders Children's Hospital Division,7003004,Queens,New York City
+245,University Hospital,5151001,Suffolk,Long Island
+511,Winthrop-University Hospital,2908000,Nassau,Long Island
+513,Mercy Medical Center,2909000,Nassau,Long Island
+518,Long Island Jewish Valley Stream,7003004,Nassau,Long Island
+527,South Nassau Communities Hospital,2950001,Nassau,Long Island
+528,Nassau University Medical Center,2950002,Nassau,Long Island
+541,North Shore University Hospital,2951001,Nassau,Long Island
+550,Syosset Hospital,2951001,Nassau,Long Island
+551,St. Joseph Hospital,2952006,Nassau,Long Island
+552,Plainview Hospital,2952005,Nassau,Long Island
+563,St Francis Hospital,2953000,Nassau,Long Island
+885,Brookhaven Memorial Hospital Medical Center Inc,5123000,Suffolk,Long Island
+889,Southampton Hospital,5126000,Suffolk,Long Island
+891,Eastern Long Island Hospital,5127000,Suffolk,Long Island
+895,John T Mather Memorial Hospital of Port Jefferson New York Inc,5149000,Suffolk,Long Island
+896,St Charles Hospital,5149001,Suffolk,Long Island
+913,Huntington Hospital,5153000,Suffolk,Long Island
+924,Southside Hospital,5154000,Suffolk,Long Island
+925,Good Samaritan Hospital Medical Center,5154001,Suffolk,Long Island
+938,Peconic Bay Medical Center,5155000,Suffolk,Long Island
+943,St Catherine of Siena Hospital,5157003,Suffolk,Long Island
